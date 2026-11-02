@@ -10,6 +10,8 @@ Websites for NTU CAC Media & IT
 
 Here's my cabinet of tools that I frequently use or know
 
+<div style="display:flex;">
+
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height=32 />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height=32/>
@@ -39,6 +41,7 @@ Here's my cabinet of tools that I frequently use or know
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height=32/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height=32/>
+</div>
 
 ## Interests
 
